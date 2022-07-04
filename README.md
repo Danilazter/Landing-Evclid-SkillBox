@@ -2,7 +2,7 @@
 
 Верстка макета-"Евклид" с использованием HTML,CSS и JS
 
-Посмотри здесь 😉:https://danilazter.github.io/Landing-Evclid-SkillBox-/
+Посмотри здесь 😉https://danilazter.github.io/Landing-Evclid-SkillBox/
 
 <ul>
   <li>
