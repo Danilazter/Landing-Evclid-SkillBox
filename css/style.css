@@ -645,7 +645,7 @@ a {
   top: 30px;
   right: 0;
   border-radius: 100%;
-  background-image: url(../images/accordion-icon.svg);
+  background-image: url(./../images/accordion-icon.svg);
   background-repeat: no-repeat;
   background-position: center;
   transition: background-color 0.3s ease-in-out,
