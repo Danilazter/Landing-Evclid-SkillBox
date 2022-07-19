@@ -910,7 +910,6 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10px;
-  overflow:none;
 }
 
 .checkbox:checked + .checkbox-text::after {
