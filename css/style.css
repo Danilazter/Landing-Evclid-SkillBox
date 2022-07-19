@@ -602,7 +602,7 @@ a {
   transition: background-color 0.3s ease-in-out,
     background-image 0.3s ease-in-out, transform 0.3s ease-in-out;
   background-color: #ff9900;
-  background-image: url(../../images/accordion-icon-white.svg);
+  background-image: url(./images/accordion-icon-white.svg);
 }
 
 .ui-state-hover {
@@ -621,7 +621,7 @@ a {
   transition: background-color 0.3s ease-in-out,
     background-image 0.3s ease-in-out, transform 0.3s ease-in-out;
   background-color: #ff9900;
-  background-image: url(../../images/accordion-icon-white.svg);
+  background-image: url(./images/accordion-icon-white.svg);
 }
 
 .questions__title {
@@ -906,7 +906,7 @@ a {
   width: 7px;
   height: 7px;
   opacity: 0;
-  background-image: url(../../images/checked.svg);
+  background-image: url(./images/checked.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10px;
